@@ -1,6 +1,6 @@
 # Sheldon
 
-Research & Development Engineer at [Elith.ai](https://elith.ai), A AI startup at Tokyo, Japan
+Research & Development Engineer at [Elith.ai](https://elith.ai), a AI startup at Tokyo, Japan
 
 ## Education
 
@@ -16,6 +16,7 @@ Research & Development Engineer at [Elith.ai](https://elith.ai), A AI startup at
 
 ## Research Interests
 
+- Physical AI safety and trustworthiness 
 - Natural Language Processing (NLP)
 - Multimodal cultural diversity alignment in large multimodal models
 - Multimodal prompt & context engineering on large vision-language models
