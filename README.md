@@ -1,6 +1,6 @@
 # Sheldon
 
-Research & Development Engineer at [Elith.ai](https://elith.ai) An AI startup at Tokyo, Japan
+Research & Development Engineer at [Elith.ai](https://elith.ai), A AI startup at Tokyo, Japan
 
 ## Education
 
