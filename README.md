@@ -12,7 +12,7 @@ Research & Development Engineer at [Elith.ai](https://elith.ai)
 
 **Interdisciplinary Science Dept, College of Arts and Science** · 2020 – 2024
 
-- B.A. in Liberal Arts
+- B.A. in Liberal Arts 
 
 ## Contact
 
