@@ -1,4 +1,4 @@
-# Sheldon Feiyu Zhang
+# Sheldon
 
 Research & Development Engineer at [Elith.ai](https://elith.ai)
 
