@@ -14,6 +14,14 @@ Research & Development Engineer at [Elith.ai](https://elith.ai)
 
 - B.A. in Liberal Arts 
 
+## Research Interests
+
+- Natural Language Processing (NLP)
+- Multimodal cultural diversity alignment in large multimodal models
+- Multimodal prompt & context engineering on large vision-language models
+- AI agents: development and security
+- Computational social science, empirical applications of computational grounded theory
+
 ## Contact
 
 - sheldon.feiyu.zhang@elith.ai
