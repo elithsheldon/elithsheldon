@@ -25,4 +25,4 @@ Research & Development Engineer at [Elith.ai](https://elith.ai), a AI startup at
 
 ## Contact
 
-- sheldon.feiyu.zhang@elith.ai
+- sheldon.feiyu.zhang@elith.ai (work email)
