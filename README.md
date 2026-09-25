@@ -6,7 +6,7 @@ Research & Development Engineer at [Elith.ai](https://elith.ai), a AI startup at
 
 ### The University of Tokyo — Tokyo, Japan
 
-**Graduate School of Information Science and Technology (IST), Mechano-Informatics Dept.** · 2024 – Present
+**Graduate School of Information Science and Technology (IST), Mechano-Informatics Dept.** · 2024 – 2026
 
 - M.S. in Information Science and Technology
 
