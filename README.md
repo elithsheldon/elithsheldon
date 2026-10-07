@@ -4,13 +4,13 @@ Research & Development Engineer at [Elith.ai](https://elith.ai), a AI startup at
 
 ## Education
 
-### The University of Tokyo — Tokyo, Japan
+### [The University of Tokyo](https://www.u-tokyo.ac.jp/en/) — Tokyo, Japan
 
-**Graduate School of Information Science and Technology (IST), Mechano-Informatics Dept.** · 2024 – 2026
+**[Graduate School of Information Science and Technology (IST)](https://www.i.u-tokyo.ac.jp/index_e.shtml), [Mechano-Informatics Dept.](https://www.i.u-tokyo.ac.jp/edu/course/m-i/index_e.shtml)** · 2024 – 2026
 
 - M.S. in Information Science and Technology
 
-**Interdisciplinary Science Dept, College of Arts and Science** · 2020 – 2024
+**[Interdisciplinary Science Dept](https://www.c.u-tokyo.ac.jp/eng_site/info/academics/fas/dids/index.html), [College of Arts and Science](https://www.c.u-tokyo.ac.jp/eng_site/info/about/education/CAS/)** · 2020 – 2024
 
 - B.A. in Liberal Arts 
 
